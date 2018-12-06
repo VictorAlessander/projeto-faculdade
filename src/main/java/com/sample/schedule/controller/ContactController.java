@@ -1,8 +1,8 @@
 package com.sample.schedule.controller;
 
 
-import com.sample.schedule.com.sample.schedule.model.Contact;
-import com.sample.schedule.com.sample.schedule.service.ContactService;
+import com.sample.schedule.model.Contact;
+import com.sample.schedule.service.ContactService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

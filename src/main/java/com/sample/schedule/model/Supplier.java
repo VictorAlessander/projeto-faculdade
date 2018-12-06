@@ -1,4 +1,4 @@
-package com.sample.schedule.com.sample.schedule.model;
+package com.sample.schedule.model;
 
 import lombok.Data;
 

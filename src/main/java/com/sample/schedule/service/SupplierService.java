@@ -1,8 +1,8 @@
-package com.sample.schedule.com.sample.schedule.service;
+package com.sample.schedule.service;
 
 
-import com.sample.schedule.com.sample.schedule.model.Supplier;
-import com.sample.schedule.com.sample.schedule.repository.SupplierRepository;
+import com.sample.schedule.model.Supplier;
+import com.sample.schedule.repository.SupplierRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

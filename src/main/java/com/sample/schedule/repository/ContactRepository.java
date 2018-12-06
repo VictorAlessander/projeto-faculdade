@@ -1,6 +1,6 @@
-package com.sample.schedule.com.sample.schedule.repository;
+package com.sample.schedule.repository;
 
-import com.sample.schedule.com.sample.schedule.model.Contact;
+import com.sample.schedule.model.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

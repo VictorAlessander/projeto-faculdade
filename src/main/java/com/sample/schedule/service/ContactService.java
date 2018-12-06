@@ -1,8 +1,8 @@
-package com.sample.schedule.com.sample.schedule.service;
+package com.sample.schedule.service;
 
 
-import com.sample.schedule.com.sample.schedule.model.Contact;
-import com.sample.schedule.com.sample.schedule.repository.ContactRepository;
+import com.sample.schedule.model.Contact;
+import com.sample.schedule.repository.ContactRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
